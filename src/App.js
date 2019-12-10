@@ -9,7 +9,7 @@ class App extends Component {
       type: 'INCREASE_COUNT',
     });
   }
-
+ 
   render() {
     return (
       <div className="App">
